@@ -40,7 +40,7 @@
   .swiper-container
     width : 100%
     height : 3rem
-    .swiper-container img
+    img
       width: 100%
       height: 3rem
 </style> 
