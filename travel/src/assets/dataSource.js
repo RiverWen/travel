@@ -48,6 +48,33 @@ const iconList = [
     desc: '凤凰古城'
   }
 ]
+const recommendList = [
+  {
+    id: '001',
+    tag:"热闹",
+    price:"20.00",
+    title:"桃花源",
+    desc:"桃花源景色不错哦！有特色，喜欢这种风格，喜欢这种感觉，趣味性强，真心觉得很不错哦！值得推荐给大家，棒棒的，美美的心情哦！",
+    thumb:"http://img1.qunarzz.com/sight/p0/2004/40/4072a05961d77824a3.img.jpg_200x200_b09dbc44.jpg",
+    originPrice:"100.00"
+  },{
+    id: '002',
+    tag:"酷极",
+    price:"1.00",
+    title:"夷望溪",
+    desc:"夷望溪，亦称怡望溪，长江流域洞庭湖水系沅江的支流。发源于桃源县西安镇，流经桃源县、沅陵县，在桃源县注入沅江。",
+    thumb:"http://img1.qunarzz.com/sight/p0/1510/f6/f6673115be3a6631.img.jpg_200x200_61c876d6.jpg",
+    originPrice:"100.00"
+  },{
+    id: '003',
+    tag:"炫酷",
+    price:"80.00",
+    title:"柳叶湖",
+    desc:"柳叶湖湖仙岛成人门票+游船票",
+    thumb:"http://img1.qunarzz.com/sight/p0/1603/e4/e46caa55de46c8cc90.water.jpg_200x200_fdb5df7e.jpg",
+    originPrice:"100.00"
+  }
+]
 
 
-export default {swiperImgList,iconList}
+export default {swiperImgList,iconList,recommendList}
